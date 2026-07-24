@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 295,
+    "left": 0,
+    "width": 3543,
+    "height": 4724,
+    "isRotated": true,
+    "originalWidth": 3543,
+    "originalHeight": 5315
+  },
+  "imagePath": "image-targets/Imagetarget_SLP_luminance.jpg",
+  "metadata": null,
+  "name": "Imagetarget_SLP",
+  "resources": {
+    "originalImage": "Imagetarget_SLP_original.jpg",
+    "croppedImage": "Imagetarget_SLP_cropped.jpg",
+    "thumbnailImage": "Imagetarget_SLP_thumbnail.jpg",
+    "luminanceImage": "Imagetarget_SLP_luminance.jpg"
+  },
+  "created": 1784862411381,
+  "updated": 1784862411381
+}
